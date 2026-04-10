@@ -9,10 +9,10 @@ No trabalho dessa semana vamos alterar o projeto para que a responsividade da ho
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Vítor Hugo Laia Fernandes
+- Matricula:914845
+- Proposta de projeto escolhida: Site  de noticias do jogo valorant
+- Breve descrição sobre seu projeto: Noticias sobre atualizações e capeonatos do videogame valorant,
 
 ## Print da versão responsiva com Bootstrap [DESKTOP]
 
